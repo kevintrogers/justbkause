@@ -1,0 +1,187 @@
+/*
+Theme Name: Rise
+Theme URI: http://wow-themes.com/demo/wp/rise
+Description: A sleek and clean Multipurpose WordPress Theme by - <a href="http://wow-themes.com/">Wow Themes</a>
+Version:1.0.9
+Author: wow_themes
+Author URI: http://themeforest.net/user/wow_themes
+License: ''
+License URI: ''
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, custom-header, custom-menu, editor-style, featured-images, rtl-language-support, sticky-post, translation-ready, microformats
+Text Domain: wp_rise
+*/
+
+@charset "UTF-8";
+@import url(css/style.css);
+
+.blog-archive > ul > li {
+    padding-left: 0;
+}
+
+.entry-cotent table,
+.comment-text table {
+	width: 100%;
+}
+
+.comment-text table > thead > tr > th,
+.entry-cotent table > thead > tr > th {
+	vertical-align: bottom;
+	border-bottom: 2px solid #ddd;
+}
+
+.entry-cotent table > thead > tr > th, 
+.entry-cotent table > tbody > tr > th, 
+.entry-cotent table > tfoot > tr > th, 
+.entry-cotent table > thead > tr > td, 
+.entry-cotent table > tbody > tr > td, 
+.entry-cotent table > tfoot > tr > td,
+.comment-text table > thead > tr > th, 
+.comment-text table > tbody > tr > th, 
+.comment-text table > tfoot > tr > th, 
+.comment-text table > thead > tr > td, 
+.comment-text table > tbody > tr > td, 
+.comment-text table > tfoot > tr > td {
+	padding: 8px;
+	line-height: 1.42857143;
+	vertical-align: top;
+	border-top: 1px solid #ddd;
+}
+.comment-text ul,
+.entry-cotent ul {
+	list-style: inherit;
+	list-style-position: inside;
+	margin-left: auto !important;
+}
+
+.comment-text ol,
+.entry-cotent ol {
+	list-style-type:decimal;
+	list-style-position: inside;
+}
+
+.comment-text ol li, .comment-text ul li,
+.entry-cotent ol li, .entry-cotent ul li {
+	padding-left: 20px;
+
+}
+
+.paginate-links {
+	display: block;
+	padding-left: 0;
+	margin: 20px 0;
+	border-radius: 4px;
+}
+
+
+.paginate-links > span, .paginate-links > a {
+	position: relative;
+
+	padding: 6px 12px;
+	margin-left: -1px;
+	line-height: 1.42857143;
+
+	text-decoration: none;
+	background-color: #fff;
+	border: 1px solid #ddd;
+}
+
+
+.sticky > .blog-box {
+    border-bottom: 1px solid #bfc9d4;
+    border-top: 3px double #bfc9d4;
+    padding: 15px;
+	background-color: #eee;
+}
+
+/*.blog-archive.grid-1 > ul > li {
+	padding-left: 0;
+}*/
+
+.sidebar .widget .flickr-images li:before,
+.widget .widget_featured_posts ul li:before {
+	content: '';
+}
+
+/*** Calender  ***/
+#calendar_wrap {
+	padding-top:15px;
+}
+#wp-calendar {
+	width:100%;
+}
+#wp-calendar caption {
+	width:100%;
+	color:#121212;
+	font-size:1.3em;
+	padding:6px 0px 5px 0px;
+}
+#wp-calendar thead {
+	color:#ffffff;
+	background:#3E3E3E;
+}
+#wp-calendar thead th {
+	padding:3px 0px;
+	text-align:center;
+}
+#wp-calendar tbody {
+	width:100%;
+	text-align:center;
+	background:#e6e6e6;
+}
+#wp-calendar tbody td {
+	padding:0px 0px;
+	height:30px;
+	vertical-align:middle;
+	text-align:center;
+	font-size:11px;
+}
+#wp-calendar tbody td a {
+	width:100%;
+	height:100%;
+	display:block;
+	font-weight:bold;
+	padding:5px 0px 0px 0px;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+#wp-calendar tfoot {
+	width:100%;
+}
+#wp-calendar tfoot a {
+	display:inline-block;
+	color:#fff;
+	float:left;
+	font-size:12px;
+	padding:3px 5px 3px 5px;
+	margin:10px 0px 0px 0px;
+}
+#wp-calendar tfoot a:hover {
+	background-color:#1f1f1f;
+}
+#wp-calendar tfoot #next a {
+	float:right;
+}
+
+.twitter-share-button.twitter-tweet-button.twitter-share-button.twitter-count-horizontal {
+	width: 78px !important;
+}
+
+.addthis_toolbox.addthis_default_style div#___plusone_0 {
+	width: 60px !important;
+}
+
+.wp-caption.alignnone {
+    width: 100% !important;
+}
+body > .page-wrap {
+    overflow: hidden;
+}
+.caro-slider ul li > img {
+    width:100%;    
+    height:auto;
+    display:block;
+}
+.container .container {
+  width: auto !important;
+}

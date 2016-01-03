@@ -1,0 +1,182 @@
+
+/*
+Theme Name: beKause
+Version: 1.0
+
+
+*/
+/*@import ('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css');
+*/
+h1,h2,h3,h4,h5,h6 {
+  text-align:center;
+  padding-bottom:0px;
+  padding-top:10px;
+}
+header{
+  height:120px;
+}
+.center{
+    text-align: center;
+}
+ #intro_panel{
+
+  background-image: url('http://justbkause.org/wp-content/uploads/2015/10/dreamstime_xl_44412475-e1444883226268.jpg');  
+  margin-top:0px;
+   padding-top:0;
+   width:100%;
+   height:450px;
+   background-size: 1000px 500px;
+   background-repeat: no-repeat;
+   background-position: center;
+    
+}
+.intro_box{
+  background: pink;
+  opacity: 0.9;
+  width:60%;
+  margin-left:auto;
+  margin-right:auto;
+  position:relative;
+  bottom:400px;
+  margin-bottom:-300px;
+  border-radius: 5px;
+  
+}
+.intro_text {
+  
+ 
+  font-family: Garamond, Georgia, serif;
+  text-align: left;
+  font-size:16px;
+   color: #000;
+    
+
+  }
+  article{
+   padding: 0% 12.5% 7.5% 12.5%;
+  }
+.first_paragraph::first-letter {
+    color: #ff0000;
+    font-size: xx-large;
+}
+ 
+#about_panel {
+  
+  background: dodgerblue;
+  height: 600px;
+  width:100%;
+}
+#help_panel{
+    clear:both;
+}
+
+.event_link {
+    display:inline;
+    
+
+    
+}
+.event_pic{
+    border: 2px solid #4b707b;
+    border-radius: 50%;
+    height:200px;
+    width:200px;
+    
+    
+    
+}
+.event_list{
+    text-align:center;
+    margin-bottom:20px;
+}
+.calendar{
+    
+}
+#team_panel{
+    text-align:center;
+    background-image: url('http://justbkause.org/wp-content/uploads/2015/05/4739523391_2b8e1db2d2_b.jpg');
+    background-position:center;
+    background-repeat: no-repeat;
+    
+}
+#team_list{
+    list-style-type: none;
+    width:60%;
+    background:pink;
+    opacity: 0.9;
+    margin-left:20%;
+    margin-right:20%;
+    text-align:left;
+    
+}
+.team_pic{
+    border-radius:50%;
+    height: 200px;
+    width:200px;
+    vertical-align: top;
+    margin-top: 25px;
+}
+.team_name{
+    padding-left:10px;
+    
+}
+.team_title{
+    padding-left:10px;
+        
+}
+.nameplate{
+    display:inline-block;
+    margin: 10px 15px 0px 0px;
+    width: 40%;
+}
+.team_bio{
+    display:inline;
+    text-align:left;
+    margin-left: 20px;
+}
+.da-slider{
+
+display:inline-block;
+}
+.da-slide{
+    
+        
+
+}
+/* Slide in from the right*/
+.da-slide-fromright h2{
+	animation: fromRightAnim1 0.6s ease-in 0.8s both;
+}
+.da-slide-fromright p{
+	animation: fromRightAnim2 0.6s ease-in 0.8s both;
+}
+.da-slide-fromright .da-link{
+	animation: fromRightAnim3 0.4s ease-in 1.2s both;
+}
+.da-slide-fromright .da-img{
+	animation: fromRightAnim4 0.6s ease-in 0.8s both;
+}
+
+/* Adjust animations for different behavior of each element: */
+@keyframes fromRightAnim1{
+	0%{ left: 110%; opacity: 0; }
+	100%{ left: 10%; opacity: 1; }
+}
+@keyframes fromRightAnim2{
+	0%{ left: 110%; opacity: 0; }
+	100%{ left: 10%; opacity: 1; }
+}
+@keyframes fromRightAnim3{
+	0%{ left: 110%; opacity: 0; }
+	1%{ left: 10%; opacity: 0; }
+	100%{ left: 10%; opacity: 1; }
+}
+@keyframes fromRightAnim4{
+	0%{ left: 110%; opacity: 0; }
+	100%{ left: 60%; opacity: 1; }
+}
+
+#contact_panel{
+    clear:both;
+}
+

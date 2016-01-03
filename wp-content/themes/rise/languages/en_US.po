@@ -1,0 +1,3065 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rise v1.0.0\n"
+"POT-Creation-Date: 2014-10-09 16:33+0500\n"
+"PO-Revision-Date: 2014-10-09 16:33+0500\n"
+"Last-Translator: Shahbaz Ahmed <support@wow-themes.com>\n"
+"Language-Team: Wow Themes <support@wow-themes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-SearchPath-0: E:\\xampp\\htdocs\\rise\\wp-content\\themes\\rise\n"
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/category.php:57
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:882
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:275
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/tpl-projects.php:69
+msgid "Read More"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/comments.php:24
+msgid "Recent Comments"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/functions.php:40
+msgid "Main Menu"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/functions.php:89
+msgid "Default Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/functions.php:93
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/functions.php:111
+msgid "Footer Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/functions.php:115
+msgid "Widgets in this area will be shown in Footer Area."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/functions.php:182
+#, php-format
+msgid "%d item "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/header.php:27
+msgid "Call"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/header.php:32
+msgid "Mail"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/header.php:93
+msgid "Search..."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/ajax.php:35
+msgid "Please provide tiwtter api information to fetch feed"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/ajax.php:68
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:338
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/modules/shortcodes/newsletter.php:10
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:117
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:201
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:268
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:348
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:404
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:479
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:563
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/tpl-contact-us.php:53
+msgid "Name"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/ajax.php:72
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:339
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/modules/shortcodes/newsletter.php:13
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:407
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:126
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:768
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/tpl-contact-us.php:59
+msgid "Email"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/ajax.php:76
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:505
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/tpl-contact-us.php:69
+msgid "Message"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/ajax.php:86
+msgid "Invalid captcha entered, please try again."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/ajax.php:110
+msgid "Contact Us Message"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/ajax.php:111
+#, php-format
+msgid ""
+"Thank you <strong>%s</strong> for using our Contact form! Your email was "
+"successfully sent and we will be in touch with you soon."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/ajax.php:113
+msgid "SUCCESS! "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/ajax.php:127
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/forms.php:280
+msgid "Error! "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/backup_class.php:273
+#, php-format
+msgid ""
+"System is not able to create backup directory, please create a directory "
+"named \"backup\" in \"%s\" manually and give it 0777 write permission."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/donation.php:42
+msgid "Donation"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/donation.php:42
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:11
+msgid "Donate Now"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/donation.php:61
+msgid "DONATE NOW"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/donation.php:97
+msgid ""
+"<p class=\"errormsg donationmsg\">The transaction is already in our record.</"
+"p>"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/donation.php:101
+msgid "Thank you for your donation."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/donation.php:105
+msgid "Sorry! unfortunetly the transaction is failed."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/forms.php:60
+msgid "Send"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/forms.php:131
+msgid "UPLOAD"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/forms.php:250
+msgid "There is form validation error or spamming issue"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/forms.php:259
+#, php-format
+msgid "%s - Form Submitted"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/forms.php:261
+msgid "Form is successfully submitted, we'll response you shortly."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/forms.php:264
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/bootstrap.php:83
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/option.php:356
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/option.php:381
+msgid "Successful"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/meta_boxes.php:30
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/post_types.php:16
+msgid "Slides"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/post_types.php:17
+msgid "Slide"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/post_types.php:18
+msgid "Slidr"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/post_types.php:19
+msgid "Parent Slide:"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/post_types.php:20
+msgid "All Slides"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/post_types.php:21
+msgid "View Slide"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/post_types.php:22
+msgid "Add New Slide"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/post_types.php:23
+msgid "New Slide"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/post_types.php:24
+msgid "Edit Slide"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/post_types.php:25
+msgid "Update Slide"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/post_types.php:26
+msgid "Search Slides"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/post_types.php:27
+msgid "No Slides found"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/post_types.php:28
+msgid "No Slides found in Trash"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/post_types.php:42
+msgid "bistro_slider"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:23
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:24
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:25
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:57
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:58
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:59
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:91
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:92
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:93
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:125
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:126
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:127
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:159
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:160
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:161
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:193
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:194
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:195
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:227
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:228
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:229
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:250
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:99
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:183
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:250
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:334
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:389
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:461
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:545
+msgid "Category"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:26
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:60
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:94
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:128
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:162
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:196
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:230
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:21
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:251
+msgid "All Categories"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:27
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:61
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:95
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:163
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:197
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:231
+msgid "Parent Category"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:28
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:62
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:96
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:164
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:198
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:232
+msgid "Parent Category:"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:29
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:63
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:97
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:131
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:165
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:199
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:233
+msgid "New Category Name"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:30
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:64
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:98
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:132
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:166
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:200
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:234
+msgid "Add New Category"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:31
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:65
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:99
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:133
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:167
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:201
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:235
+msgid "Edit Category"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:32
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:66
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:100
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:134
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:168
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:202
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:236
+msgid "Update Category"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:33
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:67
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:101
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:135
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:169
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:203
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:237
+msgid "Separate Categories with commas"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:34
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:68
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:102
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:136
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:170
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:204
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:238
+msgid "Search Categories"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:35
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:69
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:103
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:137
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:171
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:205
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:239
+msgid "Add or remove Categories"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:36
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:70
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:104
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:138
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:172
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:206
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:240
+msgid "Choose from the most used Categories"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:129
+msgid "Gallery Category"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/taxonomies.php:130
+msgid "Gallery Category:"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:296
+msgid "Unable to find validation rules"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:498
+msgid "The field was not set"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:640
+msgid "Unable to access an error message corresponding to your field name."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1279
+#, php-format
+msgid "The %s field is required."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1280
+#, php-format
+msgid "The %s field must have a value."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1281
+#, php-format
+msgid "The %s field must contain a valid email address."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1282
+#, php-format
+msgid "The %s field must contain all valid email addresses."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1283
+#, php-format
+msgid "The %s field must contain a valid URL."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1284
+#, php-format
+msgid "The %s field must contain a valid IP."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1285
+#, php-format
+msgid "The %s field must be at least %s characters in length."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1286
+#, php-format
+msgid "The %s field can not exceed %s characters in length."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1287
+#, php-format
+msgid "The %s field must be exactly %s characters in length."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1288
+#, php-format
+msgid "The %s field may only contain alphabetical characters."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1289
+#, php-format
+msgid "The %s field may only contain alph-space characters."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1290
+#, php-format
+msgid "The %s field may only contain alpha-numeric characters."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1291
+#, php-format
+msgid ""
+"The %s field may only contain alpha-numeric characters, underscores, and "
+"dashes."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1292
+#, php-format
+msgid "The %s field must contain only numbers."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1293
+#, php-format
+msgid "The %s field must contain only numeric characters."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1294
+#, php-format
+msgid "The %s field must contain an integer."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1295
+#, php-format
+msgid "The %s field is not in the correct format."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1296
+#, php-format
+msgid "The %s field does not match the %s field."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1297
+#, php-format
+msgid "The %s field must contain only positive numbers."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1298
+#, php-format
+msgid "The %s field must contain a number greater than zero."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1299
+#, php-format
+msgid "The %s field must contain a decimal number."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1300
+#, php-format
+msgid "The %s field must contain a number less than %s."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1301
+#, php-format
+msgid "The %s field must contain a number greater than %s."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/helpers/validation.php:1302
+#, php-format
+msgid "The %s field must contain a file extension %s."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:51
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/data/sources.php:222
+msgid "No Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:144
+msgid "Home"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:191
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:192
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:193
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:194
+msgid "Archive for "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:195
+msgid "Search Results for "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:196
+msgid "404 - Not Found"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:214
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:245
+msgid "You must agreed the policy"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:257
+msgid "Registration Successful - An email is sent"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:261
+msgid "Username or email already exists.  Password inherited."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:340
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:499
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/tpl-contact-us.php:65
+msgid "Subject"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:343
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:355
+msgid "Comment"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:356
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:357
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:358
+msgid "Your email address will not be published."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:359
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:362
+msgid "Leave a Reply"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:363
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:364
+msgid "Cancel reply"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:365
+msgid "Send Comment Now"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:714
+msgid "Poor"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:714
+msgid "Satisfactory"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:714
+msgid "Good"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:714
+msgid "Better"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:714
+msgid "Awesome"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/functions.php:736
+#, php-format
+msgid "Average Rating %s"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:8
+msgid "Rise Tweets"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:8
+msgid "Grab the latest tweets from twitter"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:51
+msgid "Recent Tweets"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:56
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:150
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:352
+msgid "Title:"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:60
+msgid "Twitter ID:"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:64
+msgid "Number of Tweets:"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:80
+msgid "Genuine Get In Touch"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:80
+msgid "Show the information about the company"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:112
+msgid "View on Google Maps"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:141
+msgid "Get in Touch"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:154
+msgid "Address:"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:158
+msgid "Phone Number:"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:162
+msgid "Email ID:"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:167
+msgid "Email ID 2:"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:172
+msgid "Google Map Link:"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:188
+msgid "Rise Featured Post "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:188
+msgid "Show the featured posts with images"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:236
+msgid "Featured Posts"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:241
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:436
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:564
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:627
+msgid "Title: "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:245
+msgid "No. of Posts:"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:293
+msgid "Rise Flickr Feed"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:293
+msgid "Fetch the latest feed from Flickr"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:347
+msgid "Flicker"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:357
+msgid "Flickr ID:"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:361
+msgid "Number of Images:"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:375
+msgid "Rise Footer Contact Info "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:375
+msgid "Show Contact Info Detail."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:428
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:622
+msgid "Contact Info"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:440
+msgid "Address: "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:444
+msgid "Phone: "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:448
+msgid "Email: "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:452
+msgid "Skype Name: "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:466
+msgid "Rise Footer Contact Form "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:466
+msgid "Show Contact Form In Footer."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:495
+msgid "Enter Name"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:497
+msgid "Your Email"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:507
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/tpl-contact-us.php:72
+msgid "Send Message"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:561
+msgid "Any Questions? Drop us a Note"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:578
+msgid "Rise Info "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:578
+msgid "Show Rise Detail."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:623
+#, php-format
+msgid ""
+"We are a non-profit organization bringing clean, safe drinking water to "
+"people in developing countries. 100% of all public donations directly fund "
+"water projects, and we prove coordinates on a map."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/library/widgets.php:631
+msgid "Rise Detail: "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/loader.php:170
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/loader.php:171
+msgid "Theme Options"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/loader.php:174
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:82
+msgid "Facebook"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/loader.php:174
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:89
+msgid "Twitter"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/loader.php:174
+msgid "Dribble"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/loader.php:174
+msgid "Github"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/loader.php:175
+msgid "Flickr"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/loader.php:175
+msgid "Google+"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/loader.php:175
+msgid "Youtube"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/modules/shortcodes/causes.php:34
+msgid "We need to collect "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/modules/shortcodes/causes.php:40
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single-sh_causes.php:61
+msgid "$0.0"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/modules/shortcodes/causes.php:44
+msgid "Help to Collect this..."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/modules/shortcodes/donate_now.php:18
+msgid "Target $"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/modules/shortcodes/donate_now.php:20
+msgid "Raised $"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/modules/shortcodes/donate_now.php:22
+msgid "Srart $0.00"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/modules/shortcodes/projects.php:29
+msgid "+"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/modules/shortcodes/team.php:32
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single-sh_team.php:42
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/tpl-team.php:40
+msgid "Send E-Mail"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:5
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:9
+msgid "Project"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:7
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:64
+msgid "Projects"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:16
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:20
+msgid "Cause"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:18
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:148
+msgid "Causes"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:27
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:31
+msgid "Event"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:29
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:223
+msgid "Events"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:37
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:39
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:41
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:299
+msgid "Gallery"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:47
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:51
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:370
+msgid "Testimonial"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:49
+msgid "Testimonials"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:57
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:61
+msgid "Donor"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:59
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:426
+msgid "Donors"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:67
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:71
+msgid "Member"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/post_types.php:69
+msgid "Teams"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:8
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:16
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:34
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:67
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:27
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:30
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:84
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:87
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:140
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:143
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:190
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:193
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:266
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:269
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:308
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:311
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:401
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:460
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:521
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:582
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:643
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:99
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:143
+msgid "Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:9
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:17
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:68
+msgid "Choose an sidebar for this deal"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:25
+msgid "Choos Font Awesome Icon"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:26
+msgid "Choose an icon fron the font icons list"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:35
+msgid "Choose an sidebar for this service"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:43
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:227
+msgid "Start Date"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:44
+msgid "Choose start date of the deal"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:50
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:233
+msgid "End Date"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:51
+msgid "Choose end date of the deal"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:57
+msgid "Select Product"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:59
+msgid "Choose the products for this deal"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:74
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:333
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:354
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:395
+msgid "Designation"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:76
+msgid "Enter the designation of the member"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:84
+msgid "Enter the facebook url"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:91
+msgid "Enter the twitter url"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:96
+msgid "Google Plus"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:98
+msgid "Enter the google Plus url"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:103
+msgid "Project URL"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:105
+msgid "Enter the project url"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/settings.php:111
+msgid "Videos URL"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcode_output.php:9
+msgid "You do not have permission to edit posts."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcode_output.php:15
+msgid "Shortcodes created"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcode_output.php:26
+msgid "List of available Shortcodes"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcode_output.php:42
+msgid "Available parameters"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcode_output.php:57
+msgid "No parameters avaialble "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcode_output.php:59
+msgid "Insert Shortcode"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:6
+msgid "Donte Now"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:9
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:67
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:151
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:226
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:302
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:373
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:429
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:513
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:588
+msgid "Rise"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:17
+msgid "Title 1 "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:19
+msgid "Enter title before Donate Now."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:25
+msgid "Text 1 "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:27
+msgid "Enter text before Donate Now."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:33
+msgid "Title 2"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:35
+msgid "Enter title of Donate Now"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:41
+msgid "Text 2"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:43
+msgid "Enter text of Donate Now"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:49
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:109
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:159
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:209
+msgid "Target Amount"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:51
+msgid "Enter Target Amount."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:57
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:115
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:165
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:215
+msgid "Raised Amount"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:59
+msgid "Enter Raised Amount."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:69
+msgid "Project Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:75
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:116
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:159
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:200
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:234
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:267
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:310
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:347
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:403
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:437
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:478
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:521
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:562
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:595
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:149
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:294
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:707
+msgid "Title"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:77
+msgid "Enter title for Project Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:83
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:167
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:318
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:445
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:529
+msgid "Text"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:85
+msgid "Enter Text for Project Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:91
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:175
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:242
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:326
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:381
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:453
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:537
+msgid "Number"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:93
+msgid "Number of Project to show."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:106
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:190
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:257
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:337
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:393
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:468
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:552
+msgid "Choose Category."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:112
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:196
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:263
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:343
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:399
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:474
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:558
+msgid "Order By"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:115
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:199
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:266
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:346
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:402
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:477
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:561
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:103
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:145
+msgid "Date"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:118
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:202
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:269
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:349
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:405
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:480
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:564
+msgid "Author"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:119
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:203
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:270
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:350
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:406
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:481
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:565
+msgid "Comment Count"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:120
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:204
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:271
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:351
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:407
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:482
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:566
+msgid "Random"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:122
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:206
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:273
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:353
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:409
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:484
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:568
+msgid "Enter the sorting order."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:128
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:212
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:279
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:359
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:415
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:490
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:574
+msgid "Order"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:131
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:215
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:282
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:362
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:418
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:493
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:577
+msgid "Ascending"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:132
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:216
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:283
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:363
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:419
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:494
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:578
+msgid "Descending"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:134
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:218
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:285
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:365
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:421
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:496
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:580
+msgid "Enter the Order."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:140
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:291
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:502
+msgid "Background Image"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:142
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:293
+msgid "Upload Background Image."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:153
+msgid "Cause Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:161
+msgid "Enter title for Cause Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:169
+msgid "Enter Text for Cause Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:177
+msgid "Number of Cause to show."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:228
+msgid "Events Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:236
+msgid "Enter title for Events Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:244
+msgid "Number of Events to show."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:304
+msgid "Gallery Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:312
+msgid "Enter title for Gallery Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:320
+msgid "Enter Text for Gallery Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:328
+msgid "Number of Images to show."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:375
+msgid "Testimonial Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:383
+msgid "Number of Testimonial to show."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:431
+msgid "Donors Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:439
+msgid "Enter title for Donors Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:447
+msgid "Enter Text for Donors Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:455
+msgid "Number of Donors to show."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:504
+msgid "Upload Background Image for Donors Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:510
+msgid "Team"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:515
+msgid "Team Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:523
+msgid "Enter title for Team Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:531
+msgid "Enter Text for Team Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:539
+msgid "How many members of Team to show?"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:585
+msgid "Newsletter Bar"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:597
+msgid "Enter Title for Newsletter Section."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:603
+msgid "Botton Text"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:605
+msgid "Enter Botton Text."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:611
+msgid "Feed ID"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/shortcodes.php:613
+msgid "Enter Feed."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/views/menu_fields.php:3
+msgid "Show Mega Menu Options"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/views/menu_fields.php:11
+msgid "Mega Menu"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/views/menu_fields.php:17
+msgid "Columns"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/resource/views/menu_fields.php:31
+msgid "Select Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:155
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/plugins.php:49
+msgid "Install Required Plugins"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:156
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/plugins.php:50
+msgid "Install Plugins"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:157
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/plugins.php:51
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:169
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/plugins.php:63
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:171
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1841
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/plugins.php:64
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:172
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1539
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1086
+msgid "External Link"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1091
+msgid "Private Repository"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1094
+msgid "Pre-Packaged"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1098
+msgid "WordPress Repository"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1101
+msgid "Required"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1101
+msgid "Recommended"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1104
+msgid "Not Installed"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1276
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1292
+msgid "Plugin"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1293
+msgid "Source"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1294
+msgid "Type"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1295
+msgid "Status"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1313
+msgid "Install"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1314
+msgid "Activate"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1824
+msgid "Install package not available."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1825
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1826
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1827
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1828
+msgid "Plugin install failed."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1840
+msgid "Plugin activation failed."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1950
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1951
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1951
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1960
+msgid "Show Details"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1951
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1960
+msgid "Hide Details"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1952
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1953
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1960
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1961
+msgid "All installations have been completed."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2053
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/plugins.php:52
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/thirdparty/tgm-plugin-activation/plugins.php:65
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:8
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:374
+msgid "Page Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:14
+msgid "Don't Show Breadcrumb banner area"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:20
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:77
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:126
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:176
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:252
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:301
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:325
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:517
+msgid "Top Image"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:23
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:520
+msgid "Uplaod Image"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:36
+msgid "Show Posts"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:38
+msgid "Select if you want to show blog posts in this page."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:43
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:370
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes2.php:14
+msgid "Column"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:45
+msgid "Only for Blog and Gallery Pages."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:49
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:440
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:501
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:562
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:623
+msgid "1 Column"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:53
+msgid "2 Column"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:57
+msgid "3 Column"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:61
+msgid "4 Column"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:72
+msgid "Post Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:80
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:129
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:179
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:255
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:304
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:328
+msgid "Uplaod Cover Photo"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:97
+msgid "Projects Options"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:121
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:171
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:221
+msgid "Location"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:134
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:184
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:260
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single-sh_causes.php:89
+msgid "Related Posts"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:136
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:186
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:262
+msgid "Check if you want to Show Related Posts"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:153
+msgid "Causes Options"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:203
+msgid "Events Options"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:239
+msgid "Start Time"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:241
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:248
+msgid "Pattern must be H:M:S (24 Hours)"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:246
+msgid "End Time"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:279
+msgid "Image Gallery Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:287
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:504
+msgid "Images"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:291
+msgid "Image"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:320
+msgid "Testimonials Options"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:339
+msgid "Company Name"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:348
+msgid "Donor Options"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:362
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:427
+msgid "Social Profile"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:368
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:438
+msgid "Social Icon"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:375
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:419
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:445
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:155
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:300
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:713
+msgid "Link"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:389
+msgid "Team Options"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:401
+msgid "Tag Line"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:413
+msgid "Phone"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:432
+msgid "Title For Social Icon"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:455
+msgid "Skills"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:460
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:162
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:307
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:720
+msgid "Icon"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:465
+msgid "Adobe Photoshop"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:469
+msgid "Adobe Dreamweaver"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:473
+msgid "Adobe Fireworks"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:477
+msgid "Adobe Illustrator"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:485
+msgid "Skill Name"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:491
+msgid "Skill  Percentage"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:508
+msgid "Image for Photo Slide"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:525
+msgid "Check Box"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:527
+msgid "Check if you want to Show last box"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:532
+msgid "Small Text"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:538
+msgid "Large Text"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/metabox/meta_boxes.php:544
+msgid "Button Link"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:3
+msgid "Rise Theme Options"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:9
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:15
+msgid "General Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:23
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:30
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:47
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:58
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:328
+msgid "Color Scheme"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:25
+msgid "This section is used for theme color settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:31
+msgid "Enable to choose from Default Color Schemes"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:48
+msgid "Choose the Custom color scheme for the theme."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:59
+msgid "Choose from Default color schemes for the theme."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:112
+msgid "Header Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:119
+msgid "Favicon"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:120
+msgid "Upload the favicon, should be 16x16"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:127
+msgid "Enter Email to display in Header."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:133
+msgid "Phone #"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:134
+msgid "Enter Phone Number to display in Header."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:142
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:287
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:700
+msgid "Social Media"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:144
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:289
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:702
+msgid "This section is used to add Social Media."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:150
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:295
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:708
+msgid "Enter the title of the social media."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:156
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:301
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:714
+msgid "Enter the Link for Social Media."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:163
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:308
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:721
+msgid "Choose Icon for Social Media."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:178
+msgid "Logo with Image"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:185
+msgid "Header Logo"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:186
+msgid "Choose logo style"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:201
+msgid "Logo Image"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:202
+msgid "Upload the logo image"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:212
+msgid "Logo Width"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:213
+msgid "choose the logo width"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:225
+msgid "Logo Height"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:226
+msgid "choose the logo height"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:238
+msgid "Site Logo Text"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:239
+msgid "Enter Text for Site Logo."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:253
+msgid "Custom CSS"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:254
+msgid "Write your custom css to include in header."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:263
+msgid "Footer Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:270
+msgid "Show Footer"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:275
+msgid "Copyright Text"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:276
+msgid "Enter the Copyright Text"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:323
+msgid "Show Map before Footer"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:329
+msgid "Choose the Custom color scheme for Map."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:330
+msgid "#a1f43"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:340
+msgid "Map Latitude"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:341
+msgid "Enter Latitude For Map."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:351
+msgid "Map Longitude"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:352
+msgid "Enter Longitude For Map"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:362
+msgid "Footer Analytics / Scripts"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:363
+msgid ""
+"In this area you can put Google Analytics Code or any other Script that you "
+"want to be included in the footer before the Body tag."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:381
+msgid "Search Page Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:388
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:667
+msgid "Page Title"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:389
+msgid "Enter the Title you want to show on search page"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:395
+msgid "Background  Image"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:396
+msgid "Upload Image for Search Page Background"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:416
+msgid "Archive Page Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:423
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:484
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:545
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:606
+msgid "Header Background Image"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:424
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:485
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:546
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:607
+msgid "Upload Image of Full Width."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:430
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:491
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:552
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:613
+msgid "Show Breadcrum"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:435
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:496
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:557
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:618
+msgid "Post Columns"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:436
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:497
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:558
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:619
+msgid "Choose Column to show Posts"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:444
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:505
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:566
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:627
+msgid "2 Columns"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:448
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:509
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:570
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:631
+msgid "3 Columns"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:452
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:513
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:574
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:635
+msgid "4 Columns"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:469
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:530
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:591
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:652
+msgid "Choose Sidebar to show on this Page."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:477
+msgid "Author Page Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:538
+msgid "Category Page Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:599
+msgid "Tag Page Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:660
+msgid "404 Page Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:668
+msgid "Enter 404 Page Title"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:674
+msgid "Page Text"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:675
+msgid "Enter 404 Page Text"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:681
+msgid "Page Description"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:682
+msgid "Enter 404 Page Description"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:692
+msgid "Social Media "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:738
+msgid "Contact Us Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:746
+msgid "Contact Us"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:748
+msgid "This section is used for Contact Us Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:754
+msgid "Address / Location"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:761
+msgid "Contact Number"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:775
+msgid "Skype Name"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:782
+msgid "Google Map Iframe"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:789
+msgid "Contact Email"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:790
+msgid "Enter Email on which viewer can send mails."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:800
+msgid "Paypal Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:807
+msgid "Paypal Type"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:808
+msgid "Select Paypal type."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:823
+msgid "Paypal Username"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:828
+msgid "Paypal API Username"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:833
+msgid "Paypal API Password"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:838
+msgid "Paypal API Signature"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:843
+msgid "Paypal Currency"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:849
+msgid "Font Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:855
+msgid "Heading Font"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:864
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1091
+msgid "Use Custom Font"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:865
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1092
+msgid "Use custom font or not"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:870
+msgid "H1 Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:872
+msgid "heading 1 font settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:880
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:915
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:949
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:985
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1021
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1057
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1108
+msgid "Font Family"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:882
+msgid "Select the font family to use for h1"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:897
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:930
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:965
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1001
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1037
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1073
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1125
+msgid "Font Color"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:898
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:931
+msgid "Choose the font color for heading h1"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:905
+msgid "H2 Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:907
+msgid "heading h2 font settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:917
+msgid "Select the font family to use for h2"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:938
+msgid "H3 Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:940
+msgid "heading h3 font settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:951
+msgid "Select the font family to use for h3"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:966
+msgid "Choose the font color for heading h3"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:974
+msgid "H4 Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:976
+msgid "heading h4 font settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:987
+msgid "Select the font family to use for h4"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1002
+msgid "Choose the font color for heading h4"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1010
+msgid "H5 Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1012
+msgid "heading h5 font settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1023
+msgid "Select the font family to use for h5"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1038
+msgid "Choose the font color for heading h5"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1046
+msgid "H6 Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1048
+msgid "heading h6 font settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1059
+msgid "Select the font family to use for h6"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1074
+msgid "Choose the font color for heading h6"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1084
+msgid "Body Font"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1097
+msgid "Body Font Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1099
+msgid "body font settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1110
+msgid "Select the font family to use for body"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/option/option.php:1126
+msgid "Choose the font color for heading body"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:15
+msgid "WP Visual Editor"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:23
+msgid "Radio Button"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:42
+msgid "Checkbox"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:62
+msgid "Select"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:81
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:86
+msgid "Multiselect"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:106
+msgid "Color"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:112
+msgid "Sorter"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:132
+msgid "Slider"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:140
+msgid "Upload"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:150
+msgid "Textarea"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:156
+msgid "Check Image"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:160
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:188
+msgid "Label 1"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:165
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:193
+msgid "Label 2"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:170
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:198
+msgid "Label 3"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:175
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:203
+msgid "Label 4"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:184
+msgid "Radio Image"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:212
+msgid "Code Editor"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:218
+msgid "Toggle"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:236
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:397
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:488
+msgid "Color Accent"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:263
+msgid "Background Image URL"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:268
+msgid "Background Image Repeat"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:287
+msgid "Background Image Attachment"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:306
+msgid "Background Image Position"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:349
+msgid "Background Image Size"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:377
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes2.php:28
+msgid "Offset"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:425
+msgid "Text Color"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:430
+msgid "Background Color"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:435
+msgid "Button URL"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:452
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes2.php:43
+msgid "Size"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:471
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:507
+msgid "Icon name"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:524
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:545
+msgid "ID"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:529
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:550
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:571
+msgid "Width"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:534
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:555
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:576
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:581
+msgid "Height"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:566
+msgid "URL"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:586
+msgid "Autoplay"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes1.php:591
+msgid "Show Comments"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes2.php:9
+msgid "Row"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes2.php:20
+msgid "Grid"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/shortcode_generator/shortcodes2.php:37
+msgid "Inner Spacer"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:7
+msgid "SEO Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:15
+msgid "Enable SEO"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:21
+msgid "Meta Title"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:28
+msgid "Meta Description"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:35
+msgid "Meta Keywords"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:46
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:110
+msgid "Post Category Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:54
+msgid "Page View"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:59
+msgid "Grid View"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:64
+msgid "List View"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:74
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:118
+msgid "Page Layout"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:79
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:123
+msgid "Left Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:84
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:128
+msgid "Right Sidebar"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:89
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/admin/taxonomy/taxonomy.php:133
+msgid "Full Width"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/bootstrap.php:94
+msgid "Unauthorized function"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/metabox.php:35
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/taxonomy.php:36
+msgid "[Development Mode] "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/metabox.php:564
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/metabox/alchemy.php:493
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/classes/alchemy.php:493
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/taxonomy.php:569
+msgid "Remove"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/metabox.php:586
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/metabox/alchemy.php:515
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/taxonomy.php:591
+msgid "Add More"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/option.php:55
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/option.php:56
+msgid "Vafpress Options"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/option.php:62
+msgid "Option Key is required"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/option.php:64
+msgid "Template Array/File is required"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/option.php:66
+msgid "Page Slug is required"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/option.php:168
+msgid ""
+"Development Mode is Active, options' values won't be saved into database."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/option.php:298
+msgid "Can not be empty"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/option.php:323
+msgid "Invalid data"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/option.php:386
+msgid "Unverified Access."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/option.php:452
+msgid "Invalid template supplied"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/option.php:465
+msgid "Utility"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/option.php:471
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/restore.php:38
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/views/option/restore.php:13
+msgid "Restore Default"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/option.php:480
+msgid "Export/Import"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/shortcodegenerator.php:259
+msgid "insert"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/classes/shortcodegenerator.php:260
+msgid "cancel"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:22
+msgid "This is required"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:30
+msgid "Import failed"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:31
+msgid "Export succeed, copy the JSON formatted options"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:32
+msgid "Export failed"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:34
+msgid "Options identical to default"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:35
+msgid "Restoration failed"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:43
+msgid "Select option(s)"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/config/messages.php:45
+msgid "Select an Icon"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/control/upload.php:5
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/views/control/upload.php:5
+msgid "Choose File"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/impexp.php:4
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/impexp.php:14
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/views/option/impexp.php:4
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/views/option/impexp.php:14
+msgid "Import"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/impexp.php:7
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/views/option/impexp.php:7
+msgid "Import Options"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/impexp.php:27
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/impexp.php:37
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/views/option/impexp.php:27
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/views/option/impexp.php:37
+msgid "Export"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/impexp.php:30
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/views/option/impexp.php:30
+msgid "Export Options"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/restore.php:4
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/restore.php:14
+msgid "Import Demo Settings"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/restore.php:7
+msgid ""
+"Demo settings will import \"theme options\", \"widgets\", \"revolution slider"
+"\" and \"visual composer templates\""
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/restore.php:16
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/restore.php:39
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/views/option/restore.php:14
+msgid ""
+"** Please make sure you have already make a backup data of your current "
+"settings. Once you click this button, your current settings will be gone"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/restore.php:29
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/restore.php:32
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/set.php:69
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/set.php:84
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/views/option/set.php:69
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/views/option/set.php:84
+msgid "Save Changes"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/set.php:70
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/set.php:85
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/views/option/set.php:70
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/views/option/set.php:85
+msgid "Saving Now"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vafpress/views/option/set.php:93
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/views/option/set.php:93
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/includes/vp_new/classes/alchemy.php:515
+msgid "Add More "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/page.php:62
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single.php:56
+msgid "Share this post"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/search.php:16
+msgid "Search"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/search.php:38
+msgid "No Results Found for "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single-sh_causes.php:51
+msgid "Help to Collect"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single-sh_causes.php:124
+msgid "We need to collect"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single-sh_causes.php:125
+msgid " $"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single-sh_causes.php:129
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single-sh_projects.php:135
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/tpl-causes.php:52
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/tpl-events.php:72
+msgid "[Read More]"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single-sh_events.php:67
+msgid "Time Left"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single-sh_events.php:89
+msgid "raised"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single-sh_events.php:104
+msgid "Related Events"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single-sh_projects.php:85
+msgid "Related Projects"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single-sh_projects.php:130
+msgid "In"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single-sh_team.php:90
+msgid "My Skills"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single-sh_team.php:112
+msgid "0%"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single-sh_team.php:116
+msgid "100%"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single-sh_team.php:129
+msgid "My Photo Slides"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single-sh_team.php:160
+msgid "Try It Now"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/single.php:67
+msgid "Pages: "
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/tpl-causes.php:42
+msgid "We Need To Collect"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/tpl-causes.php:59
+msgid "Help to Collect this"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/tpl-projects.php:64
+msgid "$"
+msgstr ""
+
+#: E:\xampp\htdocs\rise\wp-content\themes\rise/tpl-projects.php:64
+msgid " / $"
+msgstr ""

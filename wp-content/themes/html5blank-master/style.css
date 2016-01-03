@@ -1,0 +1,170 @@
+/*
+	Theme Name: HTML5 Blank
+	Theme URI: http://html5blank.com
+	Description: HTML5 Blank WordPress Theme
+	Version: 1.4.3
+	Author: Todd Motto (@toddmotto)
+	Author URI: http://toddmotto.com
+	Tags: Blank, HTML5, CSS3
+
+	License: MIT
+	License URI: http://opensource.org/licenses/mit-license.php
+*/
+
+/*------------------------------------*\
+    MAIN
+\*------------------------------------*/
+ .container{
+background-color: #fff;
+}
+h1,h2,h3,h4,h5,h6 {
+  text-align:center;
+  padding-bottom:0px;
+  padding-top:10px;
+}
+header{
+ margin:0;
+}
+.main_nav{
+  text-align: center;
+}
+.main_nav li{
+  display: inline-block;	
+}
+ #intro_panel{
+
+  background-image: url('http://justbkause.org/wp-content/uploads/2015/10/dreamstime_xl_44412475-e1444883226268.jpg');  
+  margin-top:0px;
+   padding-top:0;
+   width:100%;
+   height:450px;
+   background-size: 1000px 500px;
+   background-repeat: no-repeat;
+   background-position: center;
+    
+}
+.intro_box{
+    background: pink;
+    opacity: 0.9;
+    width: 90%;
+    top: 10%;
+    left: 5%;
+    border-radius: 20px;
+    margin-bottom: 0;
+  
+}
+.intro_text {
+  
+ 
+  font-family: Garamond, Georgia, serif;
+  text-align: left;
+  font-size:16px;
+   color: #000;
+    
+
+  }
+  article{
+   padding: 0% 12.5% 7.5% 12.5%;
+  }
+.first_paragraph::first-letter {
+    color: #ff0000;
+    font-size: xx-large;
+}
+ 
+#about_panel {
+
+}
+#help_panel{
+    clear:both;
+}
+.fullwidthbanner-container .fullwidthabanner {
+position: absolute !important;
+}
+
+.event_link {
+    
+}
+.event_pic{
+    border: 2px solid #4b707b;
+    border-radius: 100%;
+    height:15em;
+    width:15em;
+    
+    
+    
+}
+.event_list{
+    text-align:center;
+    margin-bottom:2em;
+    display:inline-block;
+}
+.event_list li{
+    display:inline;
+}
+.calendar-btn{
+    margin-top:2em;
+    
+}
+#team_panel{
+    text-align:center;
+    background-image: url('http://justbkause.org/wp-content/uploads/2015/05/4739523391_2b8e1db2d2_b.jpg');
+    background-position:center;
+    background-repeat: no-repeat;
+    
+}
+#team_list{
+    list-style-type: none;
+    width:100%;
+    background:pink;
+    opacity: 0.9;
+    margin-left:20%;
+    margin-right:20%;
+    text-align:left;
+    
+}
+.team_pic{
+    border-radius:50%;
+    height: 200px;
+    width:200px;
+    vertical-align: top;
+    margin-top: 25px;
+}
+.team_name{
+    padding-left:10px;
+    
+}
+.team_title{
+    padding-left:10px;
+        
+}
+.nameplate{
+    display:inline-block;
+    margin: 10px 15px 0px 0px;
+    width: 40%;
+}
+.team_bio{
+    display:inline;
+    text-align:left;
+    margin-left: 20px;
+}
+
+#contact_panel{
+    clear:both;
+}
+.contact_list {
+    text-align:center;
+    background-color: #333;
+    color: #337ab7;
+    border-radius: 20px;
+
+}
+.contact_list li{
+    display:inline-block;
+    text-decoration: none;
+    padding-right:8em;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+}
+

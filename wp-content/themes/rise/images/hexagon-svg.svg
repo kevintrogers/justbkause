@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="726" width="628" transform="rotate(30 248 246)">
+<style type="text/css">
+      <![CDATA[
+		polygon.hexagon {
+           stroke: #666;
+           fill:   rgba(0,0,0,0.5);
+		}
+   ]]>
+</style>
+
+	<polygon class="hexagon" points="723,314 543,625.769145 183,625.769145 3,314 183,2.230855 543,2.230855 723,314" stroke-width="4"/>
+</svg>

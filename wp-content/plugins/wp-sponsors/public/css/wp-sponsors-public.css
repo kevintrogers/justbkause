@@ -1,0 +1,83 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.widget-title{
+    display:none;
+}
+#wp-sponsors ul {
+    list-style: none;
+    margin-bottom: 15px;
+}
+#wp-sponsors ul li {list-style-type: none;}
+#wp-sponsors ul.horizontal li {
+    display: inline-flex;
+    list-style-type: none;
+    padding-right: 20px;
+    border-radius: 30px;
+    text-align: center;
+    border: .8em double #a0a0a0;
+    margin-bottom:.5em;
+    height: 15em;
+}
+
+#wp-sponsors ul.horizontal {
+    margin: 10px;
+}
+ul.horizontal li.sponsors-item a img {
+    max-height: 100px;
+    padding-bottom: 15px;
+    height: 9em;
+    padding: .95em;
+}
+ul.horizontal li.sponsors-item a p {
+    height:5em;
+    
+}
+ul.horizontal li.sponsors-item a {
+    text-decoration: none;
+}
+.sponsors-item {
+    
+    width: 26em;
+    height:8em;
+    background: #f9f9f9;
+}
+
+.sponsor-desc p{
+    height:12em;
+    
+    
+}
+
+/**
+* Styling the for the linear shortcode option
+*
+*/
+div#wp-sponsors {margin-bottom: 50px;}
+
+#wp-sponsors div.sponsor-item {margin: 0 20px 20px 0; float: left;}
+
+#wp-sponsors div.sponsor-item.default {max-width: 40%;}
+#wp-sponsors div.sponsor-item.small {max-width: 15%;}
+#wp-sponsors div.sponsor-item.medium {max-width: 20%;}
+#wp-sponsors div.sponsor-item.large {max-width: 45%;}
+#wp-sponsors div.sponsor-item.full {max-width: 100%;}
+
+#wp-sponsors div.sponsor-item.default p {max-width:100%;}
+#wp-sponsors div.sponsor-item.small p {max-width:100%;}
+#wp-sponsors div.sponsor-item.medium p {max-width:100%;}
+#wp-sponsors div.sponsor-item.large p {max-width:100%;}
+#wp-sponsors div.sponsor-item.full p {max-width: 100%;}
+
+/**
+* Other styling
+*/
+
+.clearfix:after { 
+   content: "."; 
+   visibility: hidden; 
+   display: block; 
+   height: 0; 
+   clear: both;
+}

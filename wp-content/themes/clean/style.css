@@ -1,0 +1,282 @@
+/*
+	Theme Name: Clean
+	Theme URI: http://html5blank.com
+	Description: A responsive cleanly designed Wordpress theme
+	Version: 1.0
+	Author: Kevin Rogers
+	Author URI: http://spicymonkey.us
+	Tags: Blank, HTML5, CSS3
+
+
+*/
+
+/*------------------------------------*\
+    MAIN
+\*------------------------------------*/
+ .container{
+background-color: #fff;
+
+}
+body{
+    font-family: 'Lusitana', serif;
+}
+h1,h2,h3,h4,h5,h6 {
+  text-align:center;
+  padding-bottom:0px;
+  padding-top:10px;
+  font-family: 'Lato', sans-serif;
+}
+li {
+    font-family: 'Lato', sans-serif;
+}
+header{
+ margin:0;
+}
+.main_nav{
+  text-align: center;
+}
+.main_nav li{
+  display: inline-block;	
+}
+
+.social_list {
+    float:right;
+    margin-right:3em;
+    list-style:none;
+    display:inline-block;
+    margin-top:.8em;
+}
+.social_list li {
+    display:inline;
+}
+.social_list li a {
+    text-decoration:none;
+}
+.social_list li a img{
+    width:25px;
+    height:25px;
+}
+footer .social_list {
+    float:none;
+    margin-right:1em;
+    list-style:none;
+    display:inline-block;
+    margin-top:0;
+}
+#top{
+    padding-left:0;
+    padding-right:0;
+}
+.featured .back{
+    background-image:url('http://www.invadoinc.com/wp-content/uploads/2014/08/carnival-game-booth-ideas.jpg') !important;
+    background-size:cover ;
+    background-repeat:no-repeat ;
+    background-position: center ;
+    height:40em;
+    
+}
+.featured article{
+    background: #fff;
+    box-shadow: 3px 3px #c3c3c3, -.5em 1em 0.4em black;
+    opacity: .9;
+    border: 1px solid #000;
+    padding: 0 5em 3em 5em;
+    
+}
+
+.intro{
+    background-image:url('http://justbkause.org/wp-content/uploads/2015/10/dreamstime_xl_44412475-e1444883226268.jpg');
+    background-size:cover%;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    height:48em;
+
+
+  
+}
+.intro_text {
+    background: #fff;
+    box-shadow: 3px 3px #c3c3c3, -.5em 1em 0.4em black;
+    opacity: .9;
+    border: 1px solid #000;
+    margin-top:1.5em;
+
+  }
+article{
+   font-family: 'Lusitana', serif;
+   margin-top: 3em;
+   padding: 0 5em 3em 5em;
+  }
+.first_paragraph::first-letter {
+    color: #ff0000;
+    font-size: xx-large;
+}
+ 
+#about_panel {
+}
+.charity_list{
+    list-style:none;
+}
+
+
+.charity_list li a {
+    
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    color: #000;
+    border: 2px double #e606e6;
+    border-radius:1em;
+    height: 10.5em;
+    width:10.5em;
+    padding: .5em;
+    
+    
+}
+
+.charity_list li {
+    
+    margin: 2.1em 3em;
+    padding: .33em;
+    height: 11em;
+    width: 11em;
+    background: #c3c3c3;
+    border: 2px double #e606e6;
+    border-radius: 1em;
+    
+}
+.item .active {
+    height: 50em
+    width:30em;
+}
+
+
+
+.event_link {
+    
+}
+.event_pic{
+    border-radius: 100%;
+   
+    
+}
+.carousel-inner img {
+    height: 300px;
+    width: 200px;
+    
+}
+.event_list{
+    text-align:center;
+    margin-bottom:2em;
+    list-style:none;
+}
+.event_list li{
+    text-align:center;
+        display:inline;
+}
+.item {
+    text-align:center;
+}
+.carousel-indicators {
+    bottom: 20px;
+    display: none;
+}
+.carousel-caption {
+    right: 0%;
+    left: 0%;
+    background: #0a0a0a;
+    opacity: .85;
+    margin-bottom: -7.7em;
+}
+.carousel-inner .item img {
+    margin-right: auto;
+    margin-left:auto;
+    
+}
+.carousel-inner p{
+    margin-top: 7em;
+}
+.calendar{
+    margin: 2em 25em;
+    
+}
+#team_panel{
+    text-align:center;
+    background-image: url('http://justbkause.org/wp-content/uploads/2015/05/4739523391_2b8e1db2d2_b.jpg');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+    width: 100%;
+    margin-bottom: 1em;
+    
+}
+#team_list{
+    list-style-type: none;
+    opacity: 0.9;
+    box-shadow: 3px 3px #c3c3c3, -.5em 1em 0.4em black;
+    border: 1px solid #000;
+    background:##afffff;
+}
+
+.team_pic{
+    border-radius:50%;
+    height: 200px;
+    width:200px;
+    vertical-align: top;
+    margin-top: 1em;
+    margin-bottom:1em;
+}
+.team_name{
+    padding-left:10px;
+    
+}
+.team_title{
+    padding-left:10px;
+        
+}
+.nameplate{
+    display:inline-block;
+    margin: 10px 15px 0px 0px;
+    width: 40%;
+}
+.team_bio{
+    display:inline;
+    text-align:left;
+    margin-left: 20px;
+}
+
+#contact_panel{
+    clear:both;
+}
+.contact_container {
+    text-align:center;
+}
+.contact_list {
+    text-align:center;
+    color: #337ab7;
+    border-radius: 20px;
+    display: inline;
+
+}
+.contact_list li{
+    display:inline;
+    text-decoration: none;
+    padding-right:8em;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+}
+.footer_list{
+    list-style:none;
+}
+.footer_list li a{
+    text-decoration: none;
+}
+.active p {
+    width:30em;
+    height: auto;
+}
+
+ 
